@@ -1,0 +1,5 @@
+caught sighellofewfe 1ö…À@”Æ1À‰s@[Ãf.„
+caught sig[  FAILED  ] test_cmocka
+[ RUN      ] test_parse
+[  FAILED  ] test_parse
+[==========] 2 test(s) run.

@@ -1,0 +1,15 @@
+[Products; GPU ,Router]
+
+===== Trader 0 =====
+[Trader 0] [t=0] Received from SPX: MARKET OPEN;
+[Trader 0] [t=1] Event: BUY 0 GPU 10 20
+[Trader 0] [t=1] Received from SPX: ACCEPTED 0;
+[Trader 0] [t=2] Event: DISCONNECT
+
+===== Trader 1 =====
+[Trader 0] [t=0] Received from SPX: MARKET OPEN;
+[Trader 0] [t=1] Event: SELL 0 Router 15 800
+[Trader 0] [t=1] Received from SPX: ACCEPTED 0;
+[Trader 0] [t=2] Event: DISCONNECT
+
+
